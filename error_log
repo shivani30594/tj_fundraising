@@ -1,0 +1,13 @@
+[05-Feb-2019 17:17:23 America/Chicago] EasyPost Notice: Undefined property of EasyPost\Shipment instance: error
+[11-Feb-2019 08:51:41 America/Chicago] EasyPost Notice: Undefined property of EasyPost\Shipment instance: error
+[11-Feb-2019 08:52:34 America/Chicago] EasyPost Notice: Undefined property of EasyPost\Shipment instance: error
+[11-Feb-2019 08:53:34 America/Chicago] EasyPost Notice: Undefined property of EasyPost\Shipment instance: error
+[05-Mar-2019 22:42:36 America/Chicago] EasyPost Notice: Undefined property of EasyPost\Shipment instance: error
+[08-Mar-2019 22:20:52 America/Chicago] EasyPost Notice: Undefined property of EasyPost\Shipment instance: error
+[11-Mar-2019 10:59:01 America/Chicago] EasyPost Notice: Undefined property of EasyPost\Shipment instance: error
+[11-Mar-2019 11:05:50 America/Chicago] EasyPost Notice: Undefined property of EasyPost\Shipment instance: error
+[12-Mar-2019 14:02:13 America/Chicago] EasyPost Notice: Undefined property of EasyPost\Shipment instance: error
+[18-Mar-2019 10:31:58 America/Chicago] EasyPost Notice: Undefined property of EasyPost\Shipment instance: error
+[18-Mar-2019 10:32:50 America/Chicago] EasyPost Notice: Undefined property of EasyPost\Shipment instance: error
+[19-Mar-2019 10:32:39 America/Chicago] EasyPost Notice: Undefined property of EasyPost\Shipment instance: error
+[19-Apr-2019 00:24:01 America/Chicago] PHP Fatal error:  Call to a member function get() on a non-object in /home1/tjspizzaonline/public_html/application/controllers/customer/Customer.php on line 62
